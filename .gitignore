@@ -9,3 +9,8 @@ model_best.pth
 /models/trained_icnet_model_final.pth
 /models/trained_icnet_model.pth
 /models/model_best.pth
+google_coral/model.tflite
+google_coral/icnet_weights.pth
+google_coral/input.npy
+google_coral/model_traced.pt
+google_coral/output.npy

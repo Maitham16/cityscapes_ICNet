@@ -6,5 +6,6 @@ python -m venv enet_cityscapes
 
 downloading the dataset
 
+pip install mmdnn
 
 # cityscapes_ICNet
